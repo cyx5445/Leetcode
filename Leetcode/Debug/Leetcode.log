@@ -1,0 +1,4 @@
+﻿  242. 有效的字母异位词.c
+D:\Project\C\Leetcode\Leetcode\242. 有效的字母异位词.c(8,16): warning C4018: “<”: 有符号/无符号不匹配
+D:\Project\C\Leetcode\Leetcode\242. 有效的字母异位词.c(11,16): warning C4018: “<”: 有符号/无符号不匹配
+  Leetcode.vcxproj -> D:\Project\C\Leetcode\Leetcode\Debug\Leetcode.exe
