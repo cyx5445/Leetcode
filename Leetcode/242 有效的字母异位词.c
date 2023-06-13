@@ -23,10 +23,10 @@ bool isAnagram(char* s, char* t) {
 	return TRUE;
 }
 
-int main()
-{
-	char* s = "anagram";
-	char* t = "nagaram";
-	isAnagram(s, t);
-	return 0;
-}
+//int main()
+//{
+//	char* s = "anagra";
+//	char* t = "nagara";
+//	isAnagram(s, t);
+//	return 0;
+//}
